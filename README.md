@@ -26,6 +26,7 @@ This is a react take home task for Veryable. Here I have designed the frontend f
 - I have added the global search bar on the top, making it easier for admin to search based on name, address, phonenumbers or other users features.
 - I have added the dropdown on top which separates the users based on roles so that admin can easily search candidates based on their roles.
 - I have also added a global expand more button on the top, that will expand all the cards at once if you want to see the detailed view of all cards.
+- I have also added reponsiveness to the web app. so, it looks good in any screen size.
 
 <b>Project details with pictures: </b>
 
