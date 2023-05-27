@@ -7,9 +7,8 @@
 4. run "npm start" from the backend and frontend terminals
 5. The web application should be running locally on your device
 
-### `npm start`
+### `The react webpage walkthrough`
 
-#######################The react webpage walkthrough#################
 <b>WHAT IS THIS WEBPage? </b>
 
 <b> Brief WebPage Outline: </b>
