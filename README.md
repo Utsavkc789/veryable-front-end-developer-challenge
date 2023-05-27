@@ -22,10 +22,10 @@ Required Features:
 
 **_Added Features_**
 
-- I have added light mode and dark mode to the webpage so that it will be easier for admin to access page based on their preference.
+- I have added a toggle button for light mode and dark mode to the webpage so that admin can change theme of the page based on their preference.
 - I have added the global search bar on the top, making it easier for admin to search based on name, address, phonenumbers or other users features.
 - I have added the dropdown on top which separates the users based on roles so that admin can easily search candidates based on their roles.
-- There is global expand more button on the top, that will expand all the cards at once if needed to see the detailed view.
+- I have also added a global expand more button on the top, that will expand all the cards at once if you want to see the detailed view of all cards.
 
 <b>Project details with pictures: </b>
 
