@@ -1,20 +1,20 @@
-<b>HOW TO RUN THE WEB APPLICATION LOCALLY</b>
+### `HOW TO RUN THE WEB APPLICATION LOCALLY`
 
 1. Pull the main github repository to a folder
 2. Open the folder where you put the web application code in visual studio code
-3. Run "npm install" in both the backend and frontend terminals
-4. run "npm start" from the backend and frontend terminals
-5. The web application should be running locally on your device
+3. Run "npm install" in the root directory.
+4. Run "npm start" in the root directory.
+5. The web application should be running locally on your device on "http://localhost:3000".
 
-### `The react webpage walkthrough`
+### `The React WebApp walkthrough`
 
-<b>WHAT IS THIS WebPage? </b>
+<b>What is this WebPage? </b>
 
 <b> Brief WebPage Outline: </b>
 
 This is a react take home task for Veryable. Here I have designed the frontend for displaying the users in a workspace using React and Mantine UI. I have tried to make this simple webpage as userfriendly as possible.
 
-Required Features:
+**_Required Features:_**
 
 - Displaying the users in a page.
 - Having collapsible card which displays the detailed information about the user.
@@ -45,6 +45,6 @@ Required Features:
 
 <img src="./public/images/GlobalSearch.PNG" width= "500" >
 
-<b>**_The dropdown for serach base on roles:_** </b>
+<b>**_The dropdown for filter base on roles:_** </b>
 
 <img src="./public/images/Dropdown.PNG" width= "500" >
