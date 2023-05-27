@@ -37,12 +37,15 @@ Displaying user icon with different colors based on their roles.
 <b>**_Home Page in Dark mode:_** </b>
 
 <img src="./public/images/DarkMode.png" width= "500" >
+
 <b>**_Expanded version of cards:_** </b>
 
 <img src="./public/images/expanded.PNG" width= "500" >
+
 <b>**_The global search bar that we have:_** </b>
 
 <img src="./public/images/GlobalSearch.PNG" width= "500" >
+
 <b>**_The dropdown for serach base on roles:_** </b>
 
 <img src="./public/images/Dropdown.PNG" width= "500" >
