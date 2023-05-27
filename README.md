@@ -32,4 +32,4 @@ Displaying user icon with different colors based on their roles.
 
 <b>**_Home Page in light mode:_** </b>
 
-<img src="../public/images/HomePage.PNG" width= "500" >
+<img src="./public/images/HomePage.PNG" width= "500" >
